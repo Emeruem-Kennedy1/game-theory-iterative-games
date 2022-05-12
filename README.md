@@ -3,3 +3,4 @@
 This is a simple simulation of different strategies for iterative prisoner's dillema
 
 ## preview
+<img src='game_theory.png'>
